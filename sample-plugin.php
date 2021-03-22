@@ -13,3 +13,7 @@
  */
 
 // Your code starts here.
+
+function hogheoge(){
+	return ;
+}
