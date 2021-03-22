@@ -7,7 +7,7 @@
  * Author URI:      https://toiee.jp
  * Text Domain:     sample-plugin
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         Sample_Plugin
  */
