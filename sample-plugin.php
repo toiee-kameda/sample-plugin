@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     Sample Plugin
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Plugin URI:      https://github.com/toiee-kameda/sample-plugin/
+ * Description:     これは、アップデートの自動化の練習用です
+ * Author:          toiee Lab Kameda
+ * Author URI:      https://toiee.jp
  * Text Domain:     sample-plugin
  * Domain Path:     /languages
  * Version:         0.1.0
