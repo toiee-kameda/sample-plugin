@@ -14,6 +14,15 @@
 
 // Your code starts here.
 
+require 'inc/plugin-update-checker/plugin-update-checker.php';
+$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+	'https://github.com/toiee-kameda/sample-plugin/',
+	__FILE__,
+	'sample-plugin'
+);
+
+
+
 function hogheoge(){
 	return ;
 }
